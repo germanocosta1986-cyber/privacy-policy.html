@@ -1,2 +1,34 @@
 # privacy-policy.html
 Termos e Políticas de Privacidade PassGuard Vault
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacidade e Termos - PassGuard Vault</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
+        h1 { color: #137fec; }
+        h2 { color: #10263b; border-bottom: 1px solid #eee; padding-bottom: 10px; margin-top: 30px; }
+        .footer { margin-top: 50px; font-size: 0.8em; color: #777; border-top: 1px solid #eee; padding-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidade e Termos de Uso</h1>
+    <p>O <strong>PassGuard Vault</strong> é um gerenciador de senhas focado em segurança de alto nível.</p>
+
+    <h2>1. Criação de Conta</h2>
+    <p>Para utilizar o PassGuard Vault e garantir a sincronização entre dispositivos (Plano PRO), é obrigatória a criação de uma conta vinculada a um e-mail válido.</p>
+
+    <h2>2. Uso de Internet</h2>
+    <p>O aplicativo requer conexão com a internet para validar assinaturas, realizar backups criptografados e atualizar parâmetros de segurança.</p>
+
+    <h2>3. Criptografia e Senha Mestre</h2>
+    <p>Adotamos o protocolo de <strong>Zero Knowledge</strong>. Suas senhas são criptografadas localmente (AES-256). Não temos acesso e não podemos recuperar sua senha mestre.</p>
+
+    <div class="footer">
+        Última atualização: Março de 2026<br>
+        Contato: suporte@passguard.com
+    </div>
+</body>
+</html>
